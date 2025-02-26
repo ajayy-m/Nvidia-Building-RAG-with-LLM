@@ -1,2 +1,1 @@
-# MegaCart
-All e-commerce giants in a single cart!
+# Will be updated some day ig
